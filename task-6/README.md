@@ -22,7 +22,6 @@ Features:
 - Generates and exports detailed analysis reports to a text file.
 - Robust exception handling for missing files and encoding issues[cite: 1].
 """
----
 
 ## Overview
 
