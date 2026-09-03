@@ -43,3 +43,4 @@ Enter target currency code (e.g., INR, EUR, GBP) or 'exit' to quit: INR
 Enter amount in USD: 100
 
 >>> 100.00 USD = 8,350.50 INR (Exchange Rate: 1 USD = 83.5050 INR)
+done ..
